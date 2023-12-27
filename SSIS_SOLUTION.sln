@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "GROUP_49_SSIS_(ETL)_PROJ", "GROUP_49_SSIS_(ETL)_PROJ\GROUP_49_SSIS_(ETL)_PROJ.dtproj", "{CAA693DA-E9F2-4384-B2B4-E43F23179D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA693DA-E9F2-4384-B2B4-E43F23179D0E}.Development|Default.ActiveCfg = Development
+		{CAA693DA-E9F2-4384-B2B4-E43F23179D0E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6674F06-9547-4A35-AAFE-327A41F9808A}
+	EndGlobalSection
+EndGlobal

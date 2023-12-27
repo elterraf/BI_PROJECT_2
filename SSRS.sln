@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "KGB_Report_2023", "KGB_Report_2023\KGB_Report_2023.rptproj", "{A9FCFF83-05EA-442B-9265-53400F4C664C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9FCFF83-05EA-442B-9265-53400F4C664C}.Debug|Default.ActiveCfg = Debug
+		{A9FCFF83-05EA-442B-9265-53400F4C664C}.Debug|Default.Build.0 = Debug
+		{A9FCFF83-05EA-442B-9265-53400F4C664C}.Debug|Default.Deploy.0 = Debug
+		{A9FCFF83-05EA-442B-9265-53400F4C664C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{A9FCFF83-05EA-442B-9265-53400F4C664C}.DebugLocal|Default.Build.0 = DebugLocal
+		{A9FCFF83-05EA-442B-9265-53400F4C664C}.Release|Default.ActiveCfg = Release
+		{A9FCFF83-05EA-442B-9265-53400F4C664C}.Release|Default.Build.0 = Release
+		{A9FCFF83-05EA-442B-9265-53400F4C664C}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7215E0FB-BED0-49B7-803D-FC5A368C256D}
+	EndGlobalSection
+EndGlobal
