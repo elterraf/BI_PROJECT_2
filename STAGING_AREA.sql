@@ -2,12 +2,12 @@ USE [master]
 GO
 
 /* Remove the database, if it already exists, so it's safe to create it! */
-DROP DATABASE IF EXISTS [KGB_STG_2022];
+DROP DATABASE IF EXISTS [KGB_STG_2023];
 
-CREATE DATABASE [KGB_STG_2022]
+CREATE DATABASE [KGB_STG_2023]
 GO
 
-USE [KGB_STG_2022]
+USE [KGB_STG_2023]
 GO
 
 /* the STAGING dimension table for date: stg_dim_date */
